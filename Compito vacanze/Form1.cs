@@ -37,7 +37,7 @@ namespace Elaborazione_dati_CSV
             p = new dato();
             FileName = "DridiAyoub.csv";
             NomeTemp = "temp.csv";
-            recordLength = 62;
+            recordLength = 80;
             Aggiungi_campi();
             visualizza();
         }
